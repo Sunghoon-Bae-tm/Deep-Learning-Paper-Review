@@ -1,9 +1,9 @@
 ### 딥러닝 논문 리뷰: Deep Learning Paper Review
 
 * 딥러닝 논문 리뷰
-* Computer Vision 위주
+* Computer Vision
 
-#### Image Recognition (이미지 인식)
+#### Computer Vision
 * Deep Residual Learning for Image Recognition (CVPR 2016)
   * <Original Paper>(https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) / <Summary PDF>(/review_notes/ResNet(2016).pdf)
 * Aggregated Residual Transformations for Deep Neural Networks (CVPR 2017)
