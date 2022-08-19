@@ -5,7 +5,7 @@
 
 #### Computer Vision
 * Deep Residual Learning for Image Recognition (CVPR 2016)
-  * [Original Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) / [Summary PDF](/Paper_review/Deep_Residual_Learning_for_Image_Recognition_(CVPR 2016).pdf)
+  * [Original Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) / [Summary PDF] (/Paper_review/Deep_Residual_Learning_for_Image_Recognition_(CVPR 2016).pdf)
 * Aggregated Residual Transformations for Deep Neural Networks (CVPR 2017)
   * [Original Paper](https://arxiv.org/pdf/1611.05431.pdf) / [Summary PDF](/Paper_review/Aggregated_Residual_Transformations_for_Deep_Neural_Networks_(CVPR 2017).pdf)
 * Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning (CVPR 2016)
