@@ -17,4 +17,4 @@
 * AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (ICLR 2021)
   * [Original Paper](https://arxiv.org/pdf/2010.11929.pdf) / [Summary PDF](/Paper_review/AN_IMAGE_IS_WORTH_16X16_WORDS_TRANSFORMERS_FOR_IMAGE_RECOGNITION_AT_SCALE_(ICLR 2021).pdf)
 * Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (ICCV 2021)
-  * [Original Paper](https://arxiv.org/pdf/2103.14030.pdf) / [Summary PDF](/Paper_review/Swin_Transformer(2021).pdf)
+  * [Original Paper](https://arxiv.org/pdf/2103.14030.pdf) / [Summary PDF](/Paper_review/Swin_Transformer_Hierarchical_Vision_Transformer_using_Shifted_Windows_(ICCV 2021).pdf)
