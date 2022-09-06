@@ -16,7 +16,7 @@
 * MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications (CVPR 2017)
   * [Original Paper](https://arxiv.org/pdf/1704.04861.pdf) / [Summary PDF](/Paper_review/MobileNets_Efficient_Convolutional_Neural_Networks_for_Mobile_Vision_Applications_(CVPR_2017).pdf)
 * Non-local Neural Networks (CVPR 2018)
-  * [Original Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Non-Local_Neural_Networks_CVPR_2018_paper.pdf) / [Summary PDF] (/Paper_review/Non-local Neural Networks(CVPR 2018).pdf)
+  * [Original Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Non-Local_Neural_Networks_CVPR_2018_paper.pdf) / [Summary PDF] (/Paper_review/Non-local_Neural_Networks_(CVPR_2018).pdf)
 * EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks (CVPR 2020)
   * [Original Paper](https://arxiv.org/pdf/1905.11946.pdf) / [Summary PDF](/Paper_review/EfficientNet_Rethinking_Model_Scaling_for_Convolutional_Neural_Networks_(CVPR_2020).pdf)
 > ICLR
