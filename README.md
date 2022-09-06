@@ -4,6 +4,7 @@
 * Computer Vision
 
 #### Computer Vision
+***
 Network Design
 > CVPR
 * Deep Residual Learning for Image Recognition (CVPR 2016)
