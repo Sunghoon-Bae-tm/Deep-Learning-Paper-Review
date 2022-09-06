@@ -3,7 +3,7 @@
 * 딥러닝 논문 리뷰
 * Computer Vision
 
-#### Computer Vision
+### Computer Vision
 ***
 Network Design
 > CVPR
