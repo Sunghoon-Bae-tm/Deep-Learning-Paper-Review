@@ -5,7 +5,7 @@
 
 ### Computer Vision
 ***
-Network Design
+#### Network Design
 > CVPR
 * Deep Residual Learning for Image Recognition (CVPR 2016)
   * [Original Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) / [Summary PDF](/Paper_review/Deep_Residual_Learning_for_Image_Recognition_(CVPR_2016).pdf)
