@@ -7,7 +7,7 @@
 ***
 #### Sequential Models
 > MIT Press
-*Long Short-Term Memory (1997)
+* Long Short-Term Memory (1997)
   * [Original Paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.676.4320&rep=rep1&type=pdf) / [Summary PDF](/Paper_review/Long_Short-Term_Memory.pdf)
 ***
 #### Network Design
