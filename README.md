@@ -13,6 +13,11 @@
 * Sequence to Sequence Learning with Neural Networks (2014)
   * [Original Paper](https://proceedings.neurips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf) / [Summary PDF](/Paper_review/Sequence_to_Sequence_Learning_with_Neural_Networks_(NIPS_2014).pdf)
 ***
+#### Image Generation
+>CVPR
+* Image Style Transfer Using Convolutional Neural Networks (2016)
+  * [Original Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) / [Summary PDF](/Paper_review/Image_Style_Transfer_Using_Convolutional_Neural_Network_(CVPR_2016).pdf)
+***
 #### Network Design
 > MICCAI
 * U-Net: Convolutional Networks for Biomedical Image Segmentation (2015)
