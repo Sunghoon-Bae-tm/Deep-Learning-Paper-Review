@@ -41,3 +41,18 @@
 > ICCV
 * Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (2021)
   * [Original Paper](https://arxiv.org/pdf/2103.14030.pdf) / [Summary PDF](/Paper_review/Swin_Transformer_Hierarchical_Vision_Transformer_using_Shifted_Windows_(ICCV_2021).pdf)
+***
+#### Medical Image
+> MICCAI
+* nnU-Net: Self-adapting Framework for U-Net-Based Medical Image Segmentation (2018)
+  *[Original Paper](https://arxiv.org/pdf/1809.10486.pdf) / [Summary PDF](/Paper_review/nnU-Net_Self_adapting_Framework_for_U-Net-Based_Medical_Image_Segmentation.pdf)
+* Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images (2022)
+  *[Original Paper](https://arxiv.org/pdf/2201.01266.pdf) / [Summary PDF](/Paper_review/Swin_UNETR_Swin_Transformer_for_Semantic_Segmentation_of_Brain_Tumors_in_MRI_Images.pdf)
+***
+#### Action Recognition
+> CVPR
+* AVA: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions (2018)
+  *[Original Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gu_AVA_A_Video_CVPR_2018_paper.pdf) / [Summary PDF](/Paper_review/AVA_A_Video_Dataset_of_Spatio-temporally_Localized_Atomic_Visual_Actions.pdf)
+> ICCV
+* SlowFast Networks for Video Recognition (2019)
+  *[Original Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Feichtenhofer_SlowFast_Networks_for_Video_Recognition_ICCV_2019_paper.pdf) / [Summary PDF](/Paper_review/SlowFast_Networks_for_Video_Recognition.pdf)
