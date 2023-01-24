@@ -56,3 +56,5 @@
 > ICCV
 * SlowFast Networks for Video Recognition (2019)
   * [Original Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Feichtenhofer_SlowFast_Networks_for_Video_Recognition_ICCV_2019_paper.pdf) / [Summary PDF](/Paper_review/SlowFast_Networks_for_Video_Recognition.pdf)
+* Watch Only Once: An End-to-End Video Action Detection Framework (2021)
+  * [Original Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Watch_Only_Once_An_End-to-End_Video_Action_Detection_Framework_ICCV_2021_paper.pdf) / [Summary PDF](/Paper_review/Watch_Only_Once_An_End_to_End_Video_Action_Detection_Framework.pdf)
